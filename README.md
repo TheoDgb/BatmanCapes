@@ -2,18 +2,34 @@
 
 [![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/CbOyCTIt?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/IDCURSEFORGE?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
 
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/batman_capes_icon.png?raw=true" alt="Batman Capes Icon" style="width: 10%;">
+<img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/batman_capes_icon.png" alt="Batman Capes Icon" width="10%">
 
 ## About
 This mod adds Batman elytra capes, including custom cape items, crafting recipes, animated models, and unique textures.
 
 ## Cape Showcase
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/gif/batman_capes_batman_crouching.gif?raw=true" alt="Batman's cape unfolding, rear view" width="50%" style="display: block; float: left;">
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/gif/batman_capes_batgirl_crouching.gif?raw=true" alt="Batgirl's cape unfolding, front view" width="50%" style="display: block; float: right;">
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/gif/batman_capes_gliding_through_the_city.gif?raw=true" alt="Batman's cape gliding through the city" width="100%" style="display: block;">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_batman_crouching.gif" alt="Batman's cape unfolding, rear view">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_batgirl_crouching.gif" alt="Batgirl's cape unfolding, front view">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_gliding_through_the_city.gif" alt="Batman's cape gliding through the city" width="100%">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Cape Items
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/cape_crafting/cape_crafting.gif?raw=true" alt="Animated preview of Batman elytra cape crafting recipes" style="width: 50%;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/cape_crafting/cape_crafting.gif" alt="Animated preview of Batman elytra cape crafting recipes" width="50%">
+</p>
 
 ## Supported Platforms and Dependencies
 ### Fabric (Minecraft 26.2)
@@ -61,4 +77,4 @@ Assets used: 3D cape model and cape textures.<br>
 Usage terms: Credit required by the author.<br>
 Modified: Adapted the model for Minecraft, including new animations.
 
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/gif/batman_capes_gliding_across_the_city.gif?raw=true" alt="Batman's cape gliding across the city" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_gliding_across_the_city.gif" alt="Batman's cape gliding across the city" width="100%">
