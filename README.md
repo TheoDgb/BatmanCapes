@@ -2,7 +2,7 @@
 
 [![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/IDMODRINTH?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/IDCURSEFORGE?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
 
-<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/BatmanCapes_icon.png?raw=true" alt="Batman Capes Icon" style="width: 10%;">
+<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/batman_capes_icon.png?raw=true" alt="Batman Capes Icon" style="width: 10%;">
 
 ## About
 This mod adds Batman elytra capes, including custom cape items, crafting recipes, animated models, and unique textures.
@@ -11,7 +11,7 @@ This mod adds Batman elytra capes, including custom cape items, crafting recipes
 image des différentes capes
 
 ## Cape Items
-<img src="https://github.com/TheoDgb/CustomCopperGolems/blob/main/media/cape_crafting/cape_cafting.gif?raw=true" alt="Animated preview of Batman elytra cape crafting recipes">
+<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/cape_crafting/cape_crafting.gif?raw=true" alt="Animated preview of Batman elytra cape crafting recipes" style="width: 50%;">
 
 ## Supported Platforms and Dependencies
 ### Fabric (Minecraft 26.2)
@@ -51,7 +51,7 @@ Note: The item ID naming is based on the costume the cape is designed to match, 
 The source code of this mod is licensed under the MIT License.<br>
 Third-party assets (models and textures) are not covered by this license and remain the property of their respective authors.
 
-## 3D Model Credits
+## Batman Cape Model Credits
 ### Batman Suits & Capes Minecraft Texture Pack
 Author: LeviTheReclaimed<br>
 Source: https://www.planetminecraft.com/texture-pack/batman-suits-capes/<br>
