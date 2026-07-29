@@ -27,9 +27,7 @@ This mod adds Batman elytra capes, including custom cape items, crafting recipes
 </table>
 
 ## Cape Items
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/cape_crafting/cape_crafting.gif" alt="Animated preview of Batman elytra cape crafting recipes" width="50%">
-</p>
+<img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/cape_crafting/cape_crafting.gif" alt="Animated preview of Batman elytra cape crafting recipes" width="50%">
 
 ## Supported Platforms and Dependencies
 ### Fabric (Minecraft 26.2)
