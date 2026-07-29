@@ -1,6 +1,6 @@
 # Batman Capes
 
-[![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/CbOyCTIt?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/IDCURSEFORGE?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
+[![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/CbOyCTIt?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/1630847?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
 
 <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/batman_capes_icon.png" alt="Batman Capes Icon" width="10%">
 
@@ -33,11 +33,11 @@ This mod adds Batman elytra capes, including custom cape items, crafting recipes
 ### Fabric (Minecraft 26.2)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [GeckoLib](https://modrinth.com/mod/geckolib)
-- [Elytra Physics](https://modrinth.com/mod/elytra-physics) (recommended)
+- [Elytra Physics](https://modrinth.com/mod/elytra-physics)
 
 ### NeoForge (Minecraft 26.2)
 - [GeckoLib](https://modrinth.com/mod/geckolib)
-- [Elytra Physics](https://modrinth.com/mod/elytra-physics) (recommended)
+- [Elytra Physics](https://modrinth.com/mod/elytra-physics)
 
 ## Elytra Physics Integration
 To make Batman capes work with the Elytra Physics mod, edit `.minecraft/config/elytra-physics-config.json` and add the following entry to the `inject_layers` array:
@@ -71,7 +71,7 @@ Third-party assets (models and textures) are not covered by this license and rem
 ### Batman Suits & Capes Minecraft Texture Pack
 Author: LeviTheReclaimed<br>
 Source: https://www.planetminecraft.com/texture-pack/batman-suits-capes/<br>
-Assets used: 3D cape model and cape textures.<br>
+Assets used: Cape model and cape textures.<br>
 Usage terms: Credit required by the author.<br>
 Modified: Adapted the model for Minecraft, including new animations.
 
