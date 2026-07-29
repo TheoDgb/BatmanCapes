@@ -1,6 +1,6 @@
 # Batman Capes
 
-[![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/IDMODRINTH?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/IDCURSEFORGE?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
+[![Modrinth Downloads Badge](https://img.shields.io/modrinth/dt/CbOyCTIt?style=for-the-badge&logo=modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbatman-capes)](https://modrinth.com/mod/batman-capes) [![CurseForge Downloads Badge](https://img.shields.io/curseforge/dt/IDCURSEFORGE?style=for-the-badge&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/batman-capes)
 
 <img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/batman_capes_icon.png?raw=true" alt="Batman Capes Icon" style="width: 10%;">
 
@@ -59,4 +59,4 @@ Assets used: 3D cape model and cape textures.<br>
 Usage terms: Credit required by the author.<br>
 Modified: Adapted the model for Minecraft, including new animations.
 
-<img src="https://github.com/TheoDgb/CustomCopperGolems/blob/main/media/batman_capes_banner.png?raw=true" alt="Batman capes">
+<img src="https://github.com/TheoDgb/BatmanCapes/blob/main/media/gif/batman_capes_gliding_across_the_city.gif?raw=true" alt="Batman cape gliding across the city">
