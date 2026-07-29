@@ -18,6 +18,7 @@ This mod adds Batman elytra capes, including custom cape items, crafting recipes
         <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_batgirl_crouching.gif" alt="Batgirl's cape unfolding, front view">
       </td>
     </tr>
+    <tr></tr>
     <tr>
       <td colspan="2">
         <img src="https://raw.githubusercontent.com/TheoDgb/BatmanCapes/main/media/gif/batman_capes_gliding_through_the_city.gif" alt="Batman's cape gliding through the city" width="100%">
