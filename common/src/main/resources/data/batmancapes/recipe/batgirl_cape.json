@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": "minecraft:phantom_membrane",
+    "E": "minecraft:elytra",
+    "S": "minecraft:string",
+    "Y": "minecraft:yellow_dye",
+    "L": "minecraft:leather",
+    "Z": "minecraft:black_dye"
+  },
+  "pattern": [
+    "PEP",
+    "SYS",
+    "LZL"
+  ],
+  "result": {
+    "id": "batmancapes:batgirl_cape"
+  }
+}

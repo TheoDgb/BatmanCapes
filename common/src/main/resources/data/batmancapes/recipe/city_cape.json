@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": "minecraft:phantom_membrane",
+    "E": "minecraft:elytra",
+    "S": "minecraft:string",
+    "Y": "minecraft:coal",
+    "L": "minecraft:leather",
+    "Z": "minecraft:coal"
+  },
+  "pattern": [
+    "PEP",
+    "SYS",
+    "LZL"
+  ],
+  "result": {
+    "id": "batmancapes:city_cape"
+  }
+}

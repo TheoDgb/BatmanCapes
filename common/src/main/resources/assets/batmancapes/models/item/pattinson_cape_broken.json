@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "batmancapes:item/pattinson_cape_broken"
+  }
+}

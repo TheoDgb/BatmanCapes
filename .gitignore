@@ -1,0 +1,71 @@
+# =====================
+# IDE
+# =====================
+
+# Eclipse
+bin/
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+
+# =====================
+# Gradle
+# =====================
+
+.gradle/
+build/
+
+# Gradle cache
+**/.gradle/
+
+
+# =====================
+# Minecraft runs
+# =====================
+
+run/
+runs/
+
+# Generated run configs
+*.log
+
+
+# =====================
+# Generated files
+# =====================
+
+# Generated resources
+**/src/generated/
+
+# Compiled mods
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+
+# =====================
+# OS files
+# =====================
+
+.DS_Store
+Thumbs.db
+
+
+# =====================
+# Project specific
+# =====================
+
+/README-PUBLISH.md
+/README-FORME.md

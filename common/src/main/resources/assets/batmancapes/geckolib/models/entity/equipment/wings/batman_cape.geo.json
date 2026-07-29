@@ -1,0 +1,164 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.batman_cape",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 7,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "armorBody",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "bone",
+					"parent": "armorBody",
+					"pivot": [0, 0, 2]
+				},
+				{
+					"name": "cape_custom",
+					"parent": "bone",
+					"pivot": [0, 23, 2],
+					"rotation": [0, 180, 0],
+					"cubes": [
+						{
+							"origin": [-7, 14, 1.4],
+							"size": [14, 10, 1],
+							"uv": [0, 23]
+						}
+					]
+				},
+				{
+					"name": "extend",
+					"parent": "cape_custom",
+					"pivot": [0, 23, 2]
+				},
+				{
+					"name": "capeL1",
+					"parent": "extend",
+					"pivot": [-7.3, 24, 2.25],
+					"rotation": [0, 2.5, 15],
+					"cubes": [
+						{
+							"origin": [-7, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0]
+						}
+					]
+				},
+				{
+					"name": "capeR1",
+					"parent": "extend",
+					"pivot": [7, 24, 2.25],
+					"rotation": [0, -2.5, -15],
+					"cubes": [
+						{
+							"origin": [-3, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0],
+							"mirror": true
+						}
+					]
+				},
+				{
+					"name": "capeL2",
+					"parent": "extend",
+					"pivot": [-7.3, 24, 2.25],
+					"rotation": [0, 2.5, 15],
+					"cubes": [
+						{
+							"origin": [-7, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0]
+						}
+					]
+				},
+				{
+					"name": "capeR2",
+					"parent": "extend",
+					"pivot": [7, 24, 2.25],
+					"rotation": [0, -2.5, -15],
+					"cubes": [
+						{
+							"origin": [-3, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0],
+							"mirror": true
+						}
+					]
+				},
+				{
+					"name": "capeL3",
+					"parent": "extend",
+					"pivot": [-7.3, 24, 2.25],
+					"rotation": [0, 2.5, 15],
+					"cubes": [
+						{
+							"origin": [-7, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0]
+						}
+					]
+				},
+				{
+					"name": "capeR3",
+					"parent": "extend",
+					"pivot": [7, 24, 2.25],
+					"rotation": [0, -2.5, -15],
+					"cubes": [
+						{
+							"origin": [-3, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0],
+							"mirror": true
+						}
+					]
+				},
+				{
+					"name": "capeL4",
+					"parent": "extend",
+					"pivot": [-7.3, 24, 2.25],
+					"rotation": [0, 2.5, 15],
+					"cubes": [
+						{
+							"origin": [-7, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0]
+						}
+					]
+				},
+				{
+					"name": "capeR4",
+					"parent": "extend",
+					"pivot": [7, 24, 2.25],
+					"rotation": [0, -2.5, -15],
+					"cubes": [
+						{
+							"origin": [-3, 2, 1.25],
+							"size": [10, 22, 1],
+							"uv": [0, 0],
+							"mirror": true
+						}
+					]
+				},
+				{
+					"name": "middle",
+					"parent": "extend",
+					"pivot": [0, 23, 2.4],
+					"cubes": [
+						{
+							"origin": [-3.5, 1, 0.95],
+							"size": [7, 22, 1],
+							"uv": [22, 0]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "batmancapes:item/blue_and_gray_cape"
+  }
+}
