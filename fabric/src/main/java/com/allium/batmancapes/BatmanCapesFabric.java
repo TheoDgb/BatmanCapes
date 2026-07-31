@@ -1,6 +1,7 @@
 package com.allium.batmancapes;
 
 import com.allium.batmancapes.registry.ModCreativeTabsFabric;
+import com.allium.batmancapes.registry.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 public class BatmanCapesFabric implements ModInitializer {
@@ -16,6 +17,8 @@ public class BatmanCapesFabric implements ModInitializer {
         // Constants.LOG.info("Hello Fabric world!");
 
         CommonClass.init();
+
+        ModItems.initialize();
 
         ModCreativeTabsFabric.register();
     }
